@@ -1,6 +1,6 @@
 # \*Nix Commands
 
-Actualmente, mientras aprendo sobre algunas tecnologías trato de compartir mi aprendizaje en forma de notas, si puedes considerar comprarme un cafecito. Muchas Gracias!
+Actualmente, mientras aprendo sobre algunas tecnologías trato de compartir mi aprendizaje en forma de apuntes, si puedes considerar comprarme un cafecito. Muchas Gracias!
 
 <button>
 <a href="https://ko-fi.com/m4ster_0fnone">
