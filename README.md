@@ -1,4 +1,4 @@
-# \*Nix Commands
+# \*NIX Commands
 
 Actualmente, mientras aprendo sobre algunas tecnologías trato de compartir mi aprendizaje en forma de apuntes, si puedes considerar comprarme un cafecito. Muchas Gracias!
 
@@ -324,4 +324,4 @@ Con "Shift + P" ordena los procesos por uso de CPU y con "Shift + M", los ordena
 - `nmap [host_ip_address]`: Network Mapper. Permite ver los puertos abiertos en un host.
 
 ## Terminal's Funny
-    - https://www.emezeta.com/articulos/20-curiosidades-geeks-para-terminales-linux
+- https://www.emezeta.com/articulos/20-curiosidades-geeks-para-terminales-linux
